@@ -1,0 +1,16 @@
+C:\Users\Jason\source\repos\TestWebRequest\TestWebRequest\bin\Debug\netcoreapp3.1\TestWebRequest.exe
+C:\Users\Jason\source\repos\TestWebRequest\TestWebRequest\bin\Debug\netcoreapp3.1\TestWebRequest.deps.json
+C:\Users\Jason\source\repos\TestWebRequest\TestWebRequest\bin\Debug\netcoreapp3.1\TestWebRequest.runtimeconfig.json
+C:\Users\Jason\source\repos\TestWebRequest\TestWebRequest\bin\Debug\netcoreapp3.1\TestWebRequest.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\TestWebRequest\TestWebRequest\bin\Debug\netcoreapp3.1\TestWebRequest.dll
+C:\Users\Jason\source\repos\TestWebRequest\TestWebRequest\bin\Debug\netcoreapp3.1\TestWebRequest.pdb
+C:\Users\Jason\source\repos\TestWebRequest\TestWebRequest\obj\Debug\netcoreapp3.1\TestWebRequest.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\TestWebRequest\TestWebRequest\obj\Debug\netcoreapp3.1\TestWebRequest.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\TestWebRequest\TestWebRequest\obj\Debug\netcoreapp3.1\TestWebRequest.AssemblyInfo.cs
+C:\Users\Jason\source\repos\TestWebRequest\TestWebRequest\obj\Debug\netcoreapp3.1\TestWebRequest.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\TestWebRequest\TestWebRequest\obj\Debug\netcoreapp3.1\TestWebRequest.dll
+C:\Users\Jason\source\repos\TestWebRequest\TestWebRequest\obj\Debug\netcoreapp3.1\TestWebRequest.pdb
+C:\Users\Jason\source\repos\TestWebRequest\TestWebRequest\obj\Debug\netcoreapp3.1\TestWebRequest.genruntimeconfig.cache
+C:\Users\Jason\source\repos\TestWebRequest\TestWebRequest\bin\Debug\netcoreapp3.1\ConsumeRestApi.dll
+C:\Users\Jason\source\repos\TestWebRequest\TestWebRequest\bin\Debug\netcoreapp3.1\ConsumeRestApi.pdb
+C:\Users\Jason\source\repos\TestWebRequest\TestWebRequest\obj\Debug\netcoreapp3.1\TestWebRequest.csproj.CopyComplete

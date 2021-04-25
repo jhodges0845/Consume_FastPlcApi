@@ -1,0 +1,9 @@
+C:\Users\Jason\source\repos\ConsumeRestApi\ConsumeRestApi\bin\Release\netcoreapp3.1\ConsumeRestApi.deps.json
+C:\Users\Jason\source\repos\ConsumeRestApi\ConsumeRestApi\bin\Release\netcoreapp3.1\ConsumeRestApi.dll
+C:\Users\Jason\source\repos\ConsumeRestApi\ConsumeRestApi\bin\Release\netcoreapp3.1\ConsumeRestApi.pdb
+C:\Users\Jason\source\repos\ConsumeRestApi\ConsumeRestApi\obj\Release\netcoreapp3.1\ConsumeRestApi.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\ConsumeRestApi\ConsumeRestApi\obj\Release\netcoreapp3.1\ConsumeRestApi.AssemblyInfo.cs
+C:\Users\Jason\source\repos\ConsumeRestApi\ConsumeRestApi\obj\Release\netcoreapp3.1\ConsumeRestApi.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\ConsumeRestApi\ConsumeRestApi\obj\Release\netcoreapp3.1\ConsumeRestApi.dll
+C:\Users\Jason\source\repos\ConsumeRestApi\ConsumeRestApi\obj\Release\netcoreapp3.1\ConsumeRestApi.pdb
+C:\Users\Jason\source\repos\ConsumeRestApi\ConsumeRestApi\obj\Release\netcoreapp3.1\ConsumeRestApi.csprojAssemblyReference.cache
